@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ricardo (aka kaibalam)
+# 👋 Hola, soy Ricardo (kaibalam)
 
 **Senior Fullstack Developer**  
 Java · Spring Boot · .NET · NodeJS · Python · PHP · Cloud · Docker · Kubernetes · AI Integration
