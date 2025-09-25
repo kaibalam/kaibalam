@@ -1,9 +1,9 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://github.com/kaibalam/kaibalam/assets/your-banner-id/banner.png" alt="Ricardo Valenzuela Banner" width="100%" />
+  <img src="[https://github.com/kaibalam/kaibalam/assets/your-banner-id/banner.png](https://photos.app.goo.gl/182joLpRAvv8qGCk7)" alt="Ricardo Valenzuela Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Ricardo (aka kaibalam)</h1>
+<h1 align="center">👋 Hi, I'm Ricardo (kaibalam)</h1>
 <h3 align="center">Senior Fullstack Developer | Java · .NET · NodeJS · Cloud · AI Integration</h3>
 
 ---
