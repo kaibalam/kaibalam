@@ -1,5 +1,7 @@
 <!-- Top Banner -->
-![Banner]([https://raw.githubusercontent.com/kaibalam/kaibalam/edit/main/Banner.png](https://github.com/kaibalam/kaibalam/blob/main/Banner.png))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kaibalam/kaibalam/main/Banner.png" alt="Ricardo Valenzuela Banner" width="100%" />
+</p>
 
 
 <h1 align="center">👋 Hi, I'm Ricardo (kaibalam)</h1>
