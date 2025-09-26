@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-![Banner](https://raw.githubusercontent.com/kaibalam/kaibalam/main/banner.png)
+![Banner](https://raw.githubusercontent.com/kaibalam/kaibalam/banner.png)
 
 
 <h1 align="center">👋 Hi, I'm Ricardo (kaibalam)</h1>
