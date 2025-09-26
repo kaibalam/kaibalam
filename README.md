@@ -43,7 +43,8 @@ I'm a developer with more than **12 years of experience**, passionate about buil
 ## 📈 Career Timeline
 - **2013** → First projects in **Java/JSP** and **Firebird databases**  
 - **2014** → Built and implemented a **mobile application** with **Android Studio** for Universidad Mariano Gálvez de Guatemala  
-- **2018** → Adoption of **Linux environments** with **RedHat tools**  
+- **2018** → Adoption of **Linux environments** with **RedHat tools**
+- **2019** → Adoption of **Oracle DB**, **Weblogic Server** and Windows tools for work with **Linux** environment for support APIs
 - **2021** → Adoption of **Spring Boot** and transition to microservices architecture  
 - **2022** → Expansion into **NodeJS/Express** and **.NET** for enterprise environments  
 - **2024** → Cloud & DevOps → **Docker, Kubernetes, GitHub Actions, AWS, GCP**  
@@ -73,10 +74,10 @@ Processes Excel files, corrects domains, removes duplicates, and exports results
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="linkedin.com/in/ricardo-valenzuela-512a141b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ricardo.valenzuela@example.com">
+  <a href="mailto:ricardo2valenzuela@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/kaibalam">
