@@ -73,20 +73,12 @@ Processes Excel files, corrects domains, removes duplicates, and exports results
 ---
 
 ## 🌐 Connect With Me
+
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-valenzuela-512a141b5)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricardo.tuemail@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/kaibalam)
 
-<p align="center">
-  <a href="linkedin.com/in/ricardo-valenzuela-512a141b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ricardo2valenzuela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kaibalam">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
